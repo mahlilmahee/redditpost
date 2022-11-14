@@ -1,0 +1,15 @@
+
+ a{
+    text-decoration: none;
+    color:rgb(53, 55, 56);
+    /* underline: none; */
+}
+h3{
+    padding:20px;
+    font-size: 1.5rem;
+    margin:0;
+    
+}
+h3:hover{
+
+    background: linear-gradient(0.25turn, #fcb723, #a2f364, #1deee3);}
